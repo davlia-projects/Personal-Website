@@ -3917,3 +3917,7 @@
 			}
 
 		}
+
+		section .section-link {
+			cursor: pointer;
+		}
